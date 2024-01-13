@@ -1,4 +1,4 @@
-from random import choices, sample
+from random import choices
 import string
 import argparse as argp
 
